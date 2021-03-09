@@ -1,0 +1,13 @@
+{
+  "name": "powermath",
+  "version": "1.0.0",
+  "description": "Powercord calculator using math.js",
+  "main": "index.js",
+  "repository": "github.com/foooooooooooooo/powermath",
+  "author": "Foo <34515228+fooooooooooooooo@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mathjs": "^9.2.0"
+  }
+}

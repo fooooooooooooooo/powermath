@@ -1,0 +1,7 @@
+{
+  "name": "Powercord calculator using math.js",
+  "version": "1.0.0",
+  "description": "Usage: [prefix]math <expression>",
+  "author": "fooooooooooooooo#4786",
+  "license": "MIT"
+}
